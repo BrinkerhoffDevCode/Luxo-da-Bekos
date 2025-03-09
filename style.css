@@ -1,0 +1,120 @@
+body{background-color: purple;
+    text-align: center;
+}
+
+
+.marca{
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: gold;
+    height: 8vh;
+}
+
+main{
+    background: url(transferir) no-repeat center center;
+    background-size: cover;
+    height: 92vh;
+}
+
+
+
+.camisa{
+    text-align: center;
+    background-color: pink;
+    padding: 5px;
+    border-style: solid;
+    width: 300px;
+    border-radius: 12px;
+}
+
+#camisetas{
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+}
+
+h1{
+    text-align: center;
+}
+
+.Calça{
+    text-align: center;
+    background-color: pink;
+    padding: 5px;
+    border-style: solid;
+    width: 300px;
+    border-radius: 12px;
+}
+
+#Calças{
+    display: flex;
+    justify-content: space-between;
+}
+
+.acessorio{
+    text-align: center;
+    background-color: pink;
+    padding: 5px;
+    border-style: solid;
+    width: 300px;
+    border-radius: 12px;
+}
+
+#acessorios{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.Sobre {
+    object-fit: cover;
+    border-color: Yellow;
+    margin: 50px;
+    text-align: left;
+    display: flex;
+    padding: 50px;
+
+
+
+}
+
+
+.Noz {
+    object-fit: cover;
+    margin: 50px;
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    
+}
+
+.Moris {
+    object-fit: cover;
+    border-color: Yellow;
+    margin: 50px;
+    padding: 50px;
+    text-align: left;
+    display: flex;
+
+}
+
+#rodapé {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    text-align: center;
+    color: black;
+    background-color: yellow;
+}
